@@ -1,0 +1,13 @@
+{
+  "name": "motus-versions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tracks deployed version info on motus.dot.gov (FMCSA USDOT Registration System) over time.",
+  "type": "module",
+  "scripts": {
+    "check": "bun run src/check.ts"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}

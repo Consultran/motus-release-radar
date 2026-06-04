@@ -1,0 +1,15 @@
+{
+  "lastCheckedAt": "2026-06-04T19:29:59.579Z",
+  "status": "ok",
+  "current": {
+    "capturedAt": "2026-06-04T19:29:59.579Z",
+    "build": "Jun 3, 2026, 10:47:42 PM EDT",
+    "webVersion": "1.1.35",
+    "serverVersion": "1.2.47",
+    "seederVersion": "97",
+    "dbMigrationVersion": "2026-06-03T1200",
+    "migrationVersion": "408",
+    "nodeEnv": "production"
+  },
+  "error": null
+}
