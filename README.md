@@ -1,4 +1,4 @@
-# MOTUS Version Tracker
+# MOTUS Release Radar
 
 Tracks the deployed version of **[motus.dot.gov](https://motus.dot.gov)** — FMCSA's USDOT
 Registration System — over time, so there's a public, timestamped record of *when* FMCSA ships

@@ -1,5 +1,5 @@
 {
-  "name": "motus-versions",
+  "name": "motus-release-radar",
   "version": "1.0.0",
   "private": true,
   "description": "Tracks deployed version info on motus.dot.gov (FMCSA USDOT Registration System) over time.",
