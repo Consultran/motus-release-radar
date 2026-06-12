@@ -1,11 +1,11 @@
 {
-  "lastCheckedAt": "2026-06-11T05:22:04.089Z",
+  "lastCheckedAt": "2026-06-12T02:38:02.082Z",
   "status": "ok",
   "current": {
-    "capturedAt": "2026-06-11T05:22:04.089Z",
-    "build": "Jun 10, 2026, 6:07:01 PM EDT",
+    "capturedAt": "2026-06-12T02:38:02.082Z",
+    "build": "Jun 11, 2026, 5:34:33 PM EDT",
     "webVersion": "1.1.35",
-    "serverVersion": "1.2.50",
+    "serverVersion": "1.2.51",
     "seederVersion": "97",
     "dbMigrationVersion": "2026-06-08T1200",
     "migrationVersion": "413",
