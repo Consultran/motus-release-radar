@@ -1,14 +1,14 @@
 {
-  "lastCheckedAt": "2026-06-12T02:38:02.082Z",
+  "lastCheckedAt": "2026-06-13T02:31:02.593Z",
   "status": "ok",
   "current": {
-    "capturedAt": "2026-06-12T02:38:02.082Z",
-    "build": "Jun 11, 2026, 5:34:33 PM EDT",
+    "capturedAt": "2026-06-13T02:31:02.593Z",
+    "build": "Jun 12, 2026, 7:37:28 PM EDT",
     "webVersion": "1.1.35",
-    "serverVersion": "1.2.51",
+    "serverVersion": "1.2.52",
     "seederVersion": "97",
-    "dbMigrationVersion": "2026-06-08T1200",
-    "migrationVersion": "413",
+    "dbMigrationVersion": "2026-06-12T1127",
+    "migrationVersion": "414",
     "nodeEnv": "production"
   },
   "error": null
