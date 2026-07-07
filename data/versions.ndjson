@@ -17,3 +17,4 @@
 {"capturedAt":"2026-06-28T18:05:41.646Z","build":"Jun 26, 2026, 5:11:44 PM EDT","webVersion":"1.1.36","serverVersion":"1.2.55","seederVersion":"97","dbMigrationVersion":"2026-06-12T1127","migrationVersion":"414","nodeEnv":"production"}
 {"capturedAt":"2026-06-30T23:58:56.976Z","build":"Jun 30, 2026, 11:00:30 AM EDT","webVersion":"1.1.36","serverVersion":"1.2.57","seederVersion":"97","dbMigrationVersion":"2026-06-12T1127","migrationVersion":"414","nodeEnv":"production"}
 {"capturedAt":"2026-07-02T23:10:08.859Z","build":"Jul 2, 2026, 11:20:17 AM EDT","webVersion":"1.1.36","serverVersion":"1.2.57","seederVersion":"97","dbMigrationVersion":"2026-07-01T1200","migrationVersion":"415","nodeEnv":"production"}
+{"capturedAt":"2026-07-07T23:48:01.493Z","build":"Jul 7, 2026, 11:06:52 AM EDT","webVersion":"1.1.36","serverVersion":"1.2.59","seederVersion":"97","dbMigrationVersion":"2026-07-01T1200","migrationVersion":"415","nodeEnv":"production"}
