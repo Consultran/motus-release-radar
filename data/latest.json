@@ -1,12 +1,12 @@
 {
-  "lastCheckedAt": "2026-07-20T17:26:26.760Z",
+  "lastCheckedAt": "2026-07-21T22:46:00.672Z",
   "status": "ok",
   "current": {
-    "capturedAt": "2026-07-20T17:26:26.760Z",
-    "build": "Jul 20, 2026, 12:15:16 PM EDT",
+    "capturedAt": "2026-07-21T22:46:00.672Z",
+    "build": "Jul 21, 2026, 11:11:49 AM EDT",
     "webVersion": "1.1.36",
-    "serverVersion": "1.2.60",
-    "seederVersion": "97",
+    "serverVersion": "1.2.62",
+    "seederVersion": "98",
     "dbMigrationVersion": "2026-07-13T0716",
     "migrationVersion": "417",
     "nodeEnv": "production"
