@@ -23,3 +23,4 @@
 {"capturedAt":"2026-07-16T22:51:56.942Z","build":"Jul 16, 2026, 3:17:41 PM EDT","webVersion":"1.1.36","serverVersion":"1.2.60","seederVersion":"97","dbMigrationVersion":"2026-07-13T0716","migrationVersion":"417","nodeEnv":"production"}
 {"capturedAt":"2026-07-20T17:26:26.760Z","build":"Jul 20, 2026, 12:15:16 PM EDT","webVersion":"1.1.36","serverVersion":"1.2.60","seederVersion":"97","dbMigrationVersion":"2026-07-13T0716","migrationVersion":"417","nodeEnv":"production"}
 {"capturedAt":"2026-07-21T22:46:00.672Z","build":"Jul 21, 2026, 11:11:49 AM EDT","webVersion":"1.1.36","serverVersion":"1.2.62","seederVersion":"98","dbMigrationVersion":"2026-07-13T0716","migrationVersion":"417","nodeEnv":"production"}
+{"capturedAt":"2026-07-23T21:57:01.394Z","build":"Jul 23, 2026, 2:13:32 PM EDT","webVersion":"1.1.36","serverVersion":"1.2.62","seederVersion":"98","dbMigrationVersion":"2026-07-22T1200","migrationVersion":"419","nodeEnv":"production"}
