@@ -38,6 +38,10 @@ bunx playwright install chromium
 bun run check
 ```
 
+Run the isolated capture regression tests with `bun test` after installing Chromium.
+The tests use a local fixture server and temporary data directories, so they do not
+contact MOTUS or modify the tracked version history.
+
 ## Version history
 
 <!-- CHANGELOG:START -->
